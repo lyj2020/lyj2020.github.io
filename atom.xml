@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyj2020.github.io/</id>
     <title>白纸满地</title>
-    <updated>2021-11-12T18:19:48.856Z</updated>
+    <updated>2021-11-12T18:25:42.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyj2020.github.io/"/>
     <link rel="self" href="https://lyj2020.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://lyj2020.github.io/images/avatar.png</logo>
     <icon>https://lyj2020.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 白纸满地</rights>
+    <entry>
+        <title type="html"><![CDATA[“三纲五常”]]></title>
+        <id>https://lyj2020.github.io/post/san-gang-wu-chang/</id>
+        <link href="https://lyj2020.github.io/post/san-gang-wu-chang/">
+        </link>
+        <updated>2021-11-12T18:24:47.000Z</updated>
+        <content type="html"><![CDATA[<p>我见今日的大学生，喊着杀头，对政治敬而远之，终于有些明白那些上下求索千年的读书人如何以血证那吃人的三纲五常。却仍旧有些不懂，怎么就甘心，甘心这样落定一生，甘心活在这般天地？你要问他们的看法，他们是没有看法的，他们是不敢同你说看法的，或是假借求学的经历推脱道我是全然不懂啊，又或是搬来某权威的名号威胁到你小心点，又或是以退为进假装软弱实则强硬地转移话题说还是不要讲这个罢。但他们又深切地懂“思想的阵地倘若不自己占领便要给敌人占领”的道理，于是一旦确认了正确后，便一拥而上，癫狂而高兴地大叫，我是个爱国的中国人了！倘若问他为什么，他定要挺起胸膛告诉你，这是他爱国者的自觉！<br>
+自觉！哪里来的自觉！你竟对你避而不谈的东西怀有自觉！是你与生俱来的的自觉么——那骨子里延续几千年维护权威的自觉！<br>
+我无端感到一种旷世悲恸。为先生，为今日学子不读他的文章，也为今日学子读他的文章，更为今日学子读他的文章而不再读。然而先生并不需我为他悲伤，那我是为谁悲伤？我这样的人，从来不少有，然而今日仍然有这有的必要，便是最大的悲伤。若是我这样人在这世上长长久久地灭绝了，才能稍稍得到宽慰。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浅谈我者与他者的关系]]></title>
         <id>https://lyj2020.github.io/post/qian-tan-wo-zhe-yu-ta-zhe-de-guan-xi/</id>
