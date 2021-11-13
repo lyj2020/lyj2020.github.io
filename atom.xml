@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyj2020.github.io/</id>
     <title>白纸满地</title>
-    <updated>2021-11-13T15:50:52.606Z</updated>
+    <updated>2021-11-13T15:55:13.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyj2020.github.io/"/>
     <link rel="self" href="https://lyj2020.github.io/atom.xml"/>
@@ -114,38 +114,6 @@ Marx：哲学不是认知形态而是实践形态 <em>Marxs：存在主义者，
         <content type="html"><![CDATA[<p>医心病、做心理咨询本质上其实是在做觉知的工作，通过一些理论技术帮助来访者澄清自我觉知。人大多数时候都在做事后解释，因为我们的觉知具有滞后性。未经历或是处于经历过程中，我们不一定就能觉知到自己的状态，比如说心流时刻。因为所有的体验都是从自我的第一视角出发，而觉知需要借助外在的他者的视角来觉察自我的状态，所以能够发现自身的结症，促进自身的成熟。<br>
 这一个成熟，不是单单靠完善自我或是满足他者的期望能够达成的，而是将我者和他者一同纳入到自我觉知的范围内。现代人痛苦的原因也可以解释为不能处理好我者与他者的关系，表现为我者和他者的对抗。比方说内卷就可以理解为人的自在发展和评价体系之间的对抗。人类通过建制、生产，构造了一系列人造物，来推动人类社会的成熟发展，但当这些人造物具有作用于人类社会的力量时，它成为了一个他者。过去人类对三纲五常的恐惧，现代人对政治正确的缄默，将来人类对人工智能的担忧，本质上都是他者对我者存在的挤压。我们一方面希望创造出一个有力的他者来促进我们自身的发展，一方面又惧怕他者的力量过于强大挤占我者的空间。正是因为没有正确处理好我者和他者的辩证统一关系，我们就会感受到他者作为一股独立在我们认知范围外的强大力影响着我们的存在方式，以及随之带来的被裹挟的失控感，我们失去了我们的主体地位。<br>
 而通过觉知将我者与他者共同纳入自己的认知范围，在一个整体层面去处理二者的关系，重新确立我者的主体地位，调控他者的促进方式和力量，保证他者最大效率促进我者的成熟。然而随着我们开始注意调整我者和他者的关系，你就会发现，没有绝对的他者，只有相对的我者。因为他者的存在依赖于我者的存在，而相互联系的个体又能够理解为一个整体，所以天地与我并生，而万物与我为一。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lyj2020.github.io/post/hello-gridea/</id>
-        <link href="https://lyj2020.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
