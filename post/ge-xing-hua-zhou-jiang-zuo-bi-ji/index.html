@@ -1,102 +1,110 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>哲学的三种形态 | 白纸满地</title>
-<meta name="description" content="周期性更新">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lyj2020.github.io//favicon.ico?v=1636819461690">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://lyj2020.github.io//favicon.ico?v=1636819516348">
 <link rel="stylesheet" href="https://lyj2020.github.io//styles/main.css">
 
 
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
 
+    <meta name="description" content="主题：哲学及其核心概念 主讲人：林伟毅
+
+三种形态：爱智慧、概念性哲学、后哲学
+
+导入：
+真理问题
+惊异于存在自身 存在问题 哲思之源 哲思活动
+而惊异并非都导向哲思
+具有普遍性、根本性问题的惊异和追问
+不能作确切定义 开放性的理解活动
+并..." />
+    <meta name="keywords" content="哲思" />
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://lyj2020.github.io/">
-        <img class="avatar" src="https://lyj2020.github.io//images/avatar.png?v=1636819461690" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://lyj2020.github.io/">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lyj2020.github.io/">
+        <img src="https://lyj2020.github.io//images/avatar.png?v=1636819516348" class="site-logo">
         <h1 class="site-title">白纸满地</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      周期性更新
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://lyj2020.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">哲学的三种形态</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2021-11-13</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">哲学的三种形态</h2>
+            <div class="post-date">2021-11-13</div>
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://lyj2020.github.io/tag/RF3SW2hU1/">
-                    哲思
-                    
-                  </a>
-                
-              </span>
-            
-          </div>
-          <div class="post-content">
-            <p><em>主题：哲学及其核心概念 主讲人：林伟毅</em></p>
+            <div class="post-content" v-pre>
+              <p><em>主题：哲学及其核心概念 主讲人：林伟毅</em></p>
 <hr>
 <h2 id="三种形态爱智慧-概念性哲学-后哲学"><strong>三种形态：爱智慧、概念性哲学、后哲学</strong></h2>
 <hr>
@@ -173,45 +181,39 @@ Marx：哲学不是认知形态而是实践形态 <em>Marxs：存在主义者，
 雅斯贝尔斯：哲学是人与人之间的交流，哲学在交流中实现<br>
 哲学跳脱出理论性的认知性的框架来理解</p>
 
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://lyj2020.github.io/tag/RF3SW2hU1/" class="tag">
+                    哲思
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://lyj2020.github.io/post/san-gang-wu-chang/">
+                  <h3 class="post-title">
+                    “三纲五常”
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://lyj2020.github.io/post/san-gang-wu-chang/">
-              <h3 class="post-title">
-                下一篇：“三纲五常”
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-
-      <div class="site-footer">
-  <div class="slogan">周期性更新</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://lyj2020.github.io//atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
 
-hljs.initHighlightingOnLoad()
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
 
 var app = new Vue({
   el: '#app',
@@ -221,6 +223,8 @@ var app = new Vue({
 })
 
 </script>
+
+
 
 
 
